@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PlatformIndependent/Scenes/TestScenes/TestScene_map_0.unity
+  isLoaded: 1
+  isActive: 1
